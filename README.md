@@ -4,6 +4,8 @@
 
 ## Languages and Tools:
 
+![BeatifulSoup](https://img.shields.io/badge/-BeatifulSoup-2B2B2B?style=for-the-badge&logo=python&logoColor=FCFBD0)
+![Requests](https://img.shields.io/badge/-Requests-2B2B2B?style=for-the-badge&logo=python&logoColor=97271F)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=telegram)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
