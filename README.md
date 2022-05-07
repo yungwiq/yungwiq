@@ -10,4 +10,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-2B2B2B?style=for-the-badge&logo=python)
 
-Follow me:
+## Follow me:
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2B2B2B?style=for-the-badge&logo=Telegram)](https://t.me/yungwiqq)
+[![Instagram](https://img.shields.io/badge/-Instagram-2B2B2B?style=for-the-badge&logo=Instagram)](https://instagram.com/yungwiq)
+[![TikTok](https://img.shields.io/badge/-TikTok-2B2B2B?style=for-the-badge&logo=TikTok)](https://www.tiktok.com/@yungwiq)
+[![VK](https://img.shields.io/badge/-VK-2B2B2B?style=for-the-badge&logo=VK)](https://vk.com/yungwiq)
