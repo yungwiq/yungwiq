@@ -2,15 +2,6 @@
 
 # I'm Telegram Bot Developer
 
-## Languages and Tools:
-
-![BeatifulSoup](https://img.shields.io/badge/-BeatifulSoup-090909?style=for-the-badge&logo=python&logoColor=FCFBD0)
-![Requests](https://img.shields.io/badge/-Requests-090909?style=for-the-badge&logo=python&logoColor=97271F)
-![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=telegram)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-090909?style=for-the-badge&logo=sqlalchemy)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-
 ## Follow me:
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/yungwiqq)
 [![TikTok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=TikTok)](https://www.tiktok.com/@yungwiq)
