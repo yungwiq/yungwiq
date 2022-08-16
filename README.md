@@ -1,4 +1,4 @@
-[![Header](https://github.com/yungwiq/yungwiq/blob/main/assets/header.png)](https://t.me/+zNTdTqqKK0llMTBi)
+// [![Header](https://github.com/yungwiq/yungwiq/blob/main/assets/header.png)](https://t.me/+zNTdTqqKK0llMTBi)
 
 # I'm Telegram Bot Developer
 
